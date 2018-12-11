@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#\Matrix\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\source\repos\C#\Matrix\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\C#\Matrix\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\Matrix.MainForm.resources
+C:\Users\User\source\repos\C#\Matrix\obj\Debug\Matrix.About.resources
